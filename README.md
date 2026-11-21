@@ -4,6 +4,8 @@
 
 I'm a B.Tech graduate in Artificial Intelligence and Machine Learning, interested in building modern web applications and solving real-world problems through technology.
 
+🌐 **Portfolio:** https://mano-portfolio.onrender.com
+
 - 🌱 Currently learning **MERN Stack Development**
 - 💻 Interested in **React.js, Node.js, Express.js and MongoDB**
 - 🚀 Building practical projects to improve my development skills
@@ -45,6 +47,9 @@ A web application that classifies Hinglish text into positive, negative and neut
 
 Tech Stack: Python, Hugging Face, Streamlit
 
-### 📫 Connect With Me
+## Connect With Me
 
-- GitHub: [MANOS-19](https://github.com/MANOS-19)
+- 🌐 Portfolio: https://mano-portfolio.onrender.com
+- 💼 LinkedIn: https://www.linkedin.com/in/mano-sk
+- 💻 GitHub: https://github.com/MANOS-19
+- 📧 Email: manosk.techie@gmail.com
